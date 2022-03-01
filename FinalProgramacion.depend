@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1646172585 source:d:\proyectos\codetetros\finalprogramacion\main.cpp
+	<iostream>
+	"Cell.h"
+	"Piece.h"
+	"Board.h"
+	"Game.h"
+
+1646174600 d:\proyectos\codetetros\finalprogramacion\include\cell.h
+	<iostream>
+
+1646174342 d:\proyectos\codetetros\finalprogramacion\include\piece.h
+	"Cell.h"
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1646174623 d:\proyectos\codetetros\finalprogramacion\include\board.h
+	"Piece.h"
+	<vector>
+	<algorithm>
+
+1646173271 d:\proyectos\codetetros\finalprogramacion\include\game.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"windows.h"
+	"Cell.h"
+	"Piece.h"
+	"Board.h"
+
+1646174798 source:d:\proyectos\codetetros\finalprogramacion\src\board.cpp
+	"Board.h"
+
+1646174622 source:d:\proyectos\codetetros\finalprogramacion\src\cell.cpp
+	"Cell.h"
+
+1646174712 source:d:\proyectos\codetetros\finalprogramacion\src\piece.cpp
+	"Piece.h"
+
+1646174913 source:d:\proyectos\codetetros\finalprogramacion\src\game.cpp
+	"Game.h"
+
